@@ -1,3 +1,26 @@
+
+
+###### Sobre o eplay
+
+
+Desenvolvimento de uma página de e-commerce responsiva para venda de jogos eletrônicos, incluindo catálogo, carrinho de compras, efeitos interativos e fluxo de pagamento. Implementação da interface… 
+
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrimoLuige&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrimoLuige&repo=Cartorioebac.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimoLuige&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
